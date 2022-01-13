@@ -6,3 +6,6 @@ content-type: application/json
     "email": "ro9er.nordqvist@gmail.com",
     "password": "hemlis"
 }
+
+### Find a particular user
+Get http://localhost:3000/auth/2
